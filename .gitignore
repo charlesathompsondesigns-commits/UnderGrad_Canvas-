@@ -1,0 +1,6 @@
+*.part
+__pycache__/
+
+# Coursework holds grades and feedback. Keep it out of git until this repo is private,
+# then delete the line below.
+courses/
